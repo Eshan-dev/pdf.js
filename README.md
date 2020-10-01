@@ -2,7 +2,7 @@
 
 [PDF.js](https://mozilla.github.io/pdf.js/) is a Portable Document Format (PDF) viewer that is built with HTML5.
 
-PDF.js is community-driven and supported by Mozilla. Our goal is to
+PDF.js is Community-Driven and Supported by Mozilla. Our goal is to
 create a general-purpose, web standards-based platform for parsing and
 rendering PDFs.
 
@@ -17,7 +17,7 @@ get involved, visit:
 + [Good Beginner Bugs](https://github.com/mozilla/pdf.js/issues?direction=desc&labels=5-good-beginner-bug&page=1&sort=created&state=open)
 + [Projects](https://github.com/mozilla/pdf.js/projects)
 
-Feel free to stop by our [Matrix room](https://chat.mozilla.org/#/room/#pdfjs:mozilla.org) for questions or guidance.
+Feel Free to stop by our [Matrix room](https://chat.mozilla.org/#/room/#pdfjs:mozilla.org) for questions or guidance.
 
 ## Getting Started
 
@@ -38,7 +38,7 @@ PDF.js is built into version 19+ of Firefox.
 
 #### Chrome
 
-+ The official extension for Chrome can be installed from the [Chrome Web Store](https://chrome.google.com/webstore/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm).
++ The official Extension for Chrome can be installed from the [Chrome Web Store](https://chrome.google.com/webstore/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm).
 *This extension is maintained by [@Rob--W](https://github.com/Rob--W).*
 + Build Your Own - Get the code as explained below and issue `gulp chromium`. Then open
 Chrome, go to `Tools > Extension` and load the (unpackaged) extension from the
